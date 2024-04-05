@@ -1,6 +1,7 @@
 # I'm Leigh, a data explorer 👩‍💻  working remotely since 2020 🚀
   
-  
+ [![Gmail Badge](https://img.shields.io/badge/-le.crupi64@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:le.crupi64@gmail.com)](mailto:le.crupi64@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-leighcrup-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leighcrup/)](https://www.linkedin.com/in/leighcrup/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/le-crupi64/Portfolio-Projects/)](https://github.com/le-crupi64/Portfolio-Projects/) <p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1xLwgdbJaMTpF7cFAqT6_Jp9tsZgEfkacwebLposkipE/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 - 🌱 I’m currently learning about Keras & Databricks  
   
@@ -14,7 +15,7 @@
 - 📊 I'm obsessed with data visualization and storytelling
 
 
-- 📃 You can view my resume <a href="https://docs.google.com/document/d/1xLwgdbJaMTpF7cFAqT6_Jp9tsZgEfkacwebLposkipE/edit?usp=sharing" target="_blank">here.</a>  
+- 🏀 Fun Fact: I love the NBA 
   
 
 <br/>  
@@ -64,19 +65,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/le-crupi64" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/leighcrup" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/leigh_katherine_82" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
