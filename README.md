@@ -1,7 +1,5 @@
-# About-Me
+# I'm Leigh, a data explorer 👩‍💻  working remotely since 2020 🚀
   
-
-### <div align="center">I'm Leigh, a data explorer 👩‍💻  working remotely since 2020 🚀</div>  
   
 
 - 🌱 I’m currently learning about Keras & Databricks  
