@@ -26,11 +26,11 @@
 
 
 
-### Frontend  
+### Visualization 
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://plotly.com/python/plotly-express/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" height="50" /></a>  
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
@@ -38,7 +38,7 @@
 
 
 
-### Backend  
+### Data Processing and ML 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
@@ -46,6 +46,9 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+  <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" height="50" /></a> 
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" /></a> 
+    <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
