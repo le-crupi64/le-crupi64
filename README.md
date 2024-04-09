@@ -32,6 +32,7 @@
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" height="50" /></a>  
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img style="margin: 10px" src="https://www.ncs-online.com/wp-content/uploads/2023/10/R-2.png" alt="Power Bi" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
