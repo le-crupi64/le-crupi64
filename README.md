@@ -15,7 +15,7 @@
 - 📊 I'm obsessed with data visualization and storytelling
 
 
-- 🏀 Fun Fact: I love the NBA 
+- 🏀 Fun Fact: I am a Certified ScrumMaster (CSM)®
   
 
 <br/>  
